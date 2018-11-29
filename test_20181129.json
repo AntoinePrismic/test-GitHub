@@ -1,0 +1,974 @@
+{
+  "page": 1,
+  "results_per_page": 20,
+  "results_size": 6,
+  "total_results_size": 6,
+  "total_pages": 1,
+  "next_page": null,
+  "prev_page": null,
+  "results": [
+    {
+      "id": "W_6fFxEAACoA5k1W",
+      "uid": null,
+      "type": "faq",
+      "href": "https://wornwear-demo.cdn.prismic.io/api/v2/documents/search?ref=W__6LREAACoA7FvX&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22W_6fFxEAACoA5k1W%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2018-11-28T14:08:26+0000",
+      "last_publication_date": "2018-11-29T14:17:27+0000",
+      "slugs": [
+        "faq"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "body": [
+          {
+            "slice_type": "faq_section",
+            "slice_label": null,
+            "items": [
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "Contact Us",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "info@wornwear.com\n\nRead more about our return policy below, or initiate your return now.",
+                    "spans": [
+                      {
+                        "start": 0,
+                        "end": 17,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "mailto:info@wornwear.com",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 63,
+                        "end": 83,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://wornwear.patagonia.com/returns",
+                          "target": "_blank"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "primary": {
+              "faq_section_title": [
+                {
+                  "type": "heading3",
+                  "text": "FAQ",
+                  "spans": []
+                }
+              ]
+            }
+          },
+          {
+            "slice_type": "faq_section",
+            "slice_label": null,
+            "items": [
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "What is Worn Wear?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "Worn Wear is a set of tools to help our customers partner with Patagonia to take mutual responsibility to extend the life of the products Patagonia makes and customers purchase. The program provides significant resources for responsible care, repair, reuse and resale, and recycling at the end of a garment’s life.",
+                    "spans": []
+                  }
+                ]
+              }
+            ],
+            "primary": {
+              "faq_section_title": [
+                {
+                  "type": "heading3",
+                  "text": "Worn Wear",
+                  "spans": []
+                }
+              ]
+            }
+          },
+          {
+            "slice_type": "faq_section",
+            "slice_label": null,
+            "items": [
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "How do I track my order?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "You will receive a shipping confirmation email containing the tracking information once your order ships. If you are having trouble tracking your package, contact Customer Service at info@wornwear.com and we'd be happy to assist.",
+                    "spans": [
+                      {
+                        "start": 183,
+                        "end": 200,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "mailto:info@wornwear.com",
+                          "target": "_blank"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "How long will it take to process my order?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "Generally, orders are shipped within 3-4 business days. If you would like to check the status of your order, please contact Customer Service at info@wornwear.com, and we’d be happy to help.",
+                    "spans": [
+                      {
+                        "start": 144,
+                        "end": 161,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "mailto:info@wornwear.com",
+                          "target": "_blank"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "What's your cancellation policy?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "Orders may be cancelled within 30 minutes of placing your order online. After 30 minutes, your order will begin processing through our fulfillment center and cannot be cancelled. \n\nTo cancel your order, email info@wornwear.com as soon as possible. ",
+                    "spans": [
+                      {
+                        "start": 209,
+                        "end": 226,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "mailto:info@wornwear.com",
+                          "target": "_blank"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "primary": {
+              "faq_section_title": [
+                {
+                  "type": "heading3",
+                  "text": "Orders",
+                  "spans": []
+                }
+              ]
+            }
+          },
+          {
+            "slice_type": "faq_section",
+            "slice_label": null,
+            "items": [
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "What is your return policy?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "If you are not satisfied with your Worn Wear order, you may return it at any time. Items must be returned in the condition that they were originally received, and customers are responsible for return shipping.",
+                    "spans": []
+                  }
+                ]
+              },
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "How do I return my purchase?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "Please submit returns directly to Worn Wear, not to Patagonia. To initiate a return, visit our Worn Wear Returns Portal. You will need your order number and the last name associated with your order. This information can be found in your order confirmation email.\n\n After you submit your return request, you will receive a return authorization email. To ensure you are credited correctly, please print out the email and include it in the package you send to us. Customers are responsible for return shipping. We recommend shipping your package using a carrier that can provide tracking information and insurance.\n\n Once we receive your return, you will be refunded within 5-7 business days for the cost of the item(s) and any associated sales tax. If you need assistance during any part of this process, please contact Worn Wear Customer Service at info@wornwear.com.",
+                    "spans": [
+                      {
+                        "start": 95,
+                        "end": 119,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://wornwear.patagonia.com/returns",
+                          "target": "_blank"
+                        }
+                      },
+                      {
+                        "start": 848,
+                        "end": 865,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "mailto:info@wornwear.com",
+                          "target": "_blank"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "faq_section_subtitle": [
+                  {
+                    "type": "heading4",
+                    "text": "Can I use the Patagonia Ironclad Guarantee for my purchase?",
+                    "spans": []
+                  }
+                ],
+                "faq_paragraph": [
+                  {
+                    "type": "paragraph",
+                    "text": "Absolutely. We are happy to ensure quality in all our products. Learn more about our Ironclad Guarantee.",
+                    "spans": [
+                      {
+                        "start": 85,
+                        "end": 103,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "http://www.patagonia.com/ironclad-guarantee.html",
+                          "target": "_blank"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "primary": {
+              "faq_section_title": [
+                {
+                  "type": "heading3",
+                  "text": "Returns",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "W__5lBEAACwA7FlL",
+      "uid": null,
+      "type": "shop",
+      "href": "https://wornwear-demo.cdn.prismic.io/api/v2/documents/search?ref=W__6LREAACoA7FvX&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22W__5lBEAACwA7FlL%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2018-11-29T14:37:12+0000",
+      "last_publication_date": "2018-11-29T14:39:41+0000",
+      "slugs": [
+        "mens-shop"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "shop_name": [
+          {
+            "type": "heading1",
+            "text": "Men's Shop",
+            "spans": []
+          }
+        ],
+        "banner_image": {
+          "dimensions": {
+            "width": 878,
+            "height": 585
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/77faa147b36b1aae65808d852098a5f3d3855ed0_mens-slide-1.jpg"
+        },
+        "cta_type": "Video player",
+        "cta_vertical_align": "Middle",
+        "cta_text": "Watch Video",
+        "cta_link": {
+          "link_type": "Web",
+          "url": "https://www.youtube.com/watch?time_continue=1&v=llufipzI8_k"
+        },
+        "cta_bg_color": "#fff7e6",
+        "cta_text_color": "#553825"
+      }
+    },
+    {
+      "id": "W_0eUhIAACoA8caw",
+      "uid": null,
+      "type": "homepage",
+      "href": "https://wornwear-demo.cdn.prismic.io/api/v2/documents/search?ref=W__6LREAACoA7FvX&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22W_0eUhIAACoA8caw%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2018-11-27T13:02:52+0000",
+      "last_publication_date": "2018-11-28T12:17:17+0000",
+      "slugs": [
+        "homepage",
+        "better-than-new"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Homepage",
+            "spans": []
+          }
+        ],
+        "body": [
+          {
+            "slice_type": "main_carousel_banner",
+            "slice_label": null,
+            "items": [
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 877,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/544b2d56b464de88a8767921cd2b56b8bd6d3bad_home-slider-1.jpg"
+                },
+                "slide_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Better Than New",
+                    "spans": []
+                  }
+                ],
+                "title_color": "#fff7e6",
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": "Middle",
+                "cta_type": "Page",
+                "cta_text": "Shop Used Patagonia Gear",
+                "cta_bg_color": "#da5e3a",
+                "cta_text_color": "#ffffff",
+                "image_credits": "Photo: Erin Feinblatt"
+              },
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 877,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/a36ba3b4b5c0042b1b5389c4845a155ddabcf37e_home-slider-2.jpg"
+                },
+                "slide_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Join Us on the Road",
+                    "spans": []
+                  }
+                ],
+                "title_color": "#fff7e6",
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": "Middle",
+                "cta_type": "Page",
+                "cta_text": "View Tour Events",
+                "cta_bg_color": "#da5e3a",
+                "cta_text_color": "#ffffff",
+                "image_credits": "Photo: Donnie Hedden"
+              },
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 936,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/9a232e20d095f7365c6b6386adf762d18e0dd64d_home-slider-3.jpg"
+                },
+                "slide_title": [
+                  {
+                    "type": "heading1",
+                    "text": "The Heart Behind Repair",
+                    "spans": []
+                  }
+                ],
+                "title_color": "#fff7e6",
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": "Middle",
+                "cta_type": "Video Player",
+                "cta_text": "Watch Video",
+                "cta_bg_color": "#fff7e6",
+                "cta_text_color": "#553825",
+                "image_credits": "Photo: Ken Ducote"
+              },
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 877,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/95a3d1f7226d7f12b3535a208ed973fa113668e4_home-slider-4.jpg"
+                },
+                "slide_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Trade In, Get Paid",
+                    "spans": []
+                  }
+                ],
+                "title_color": "#fff7e6",
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": "Middle",
+                "cta_type": "Page",
+                "cta_text": "Find Out About Trade-In",
+                "cta_bg_color": "#da5e3a",
+                "cta_text_color": "#ffffff",
+                "image_credits": "Photo: Leigh Bost"
+              },
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 877,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/1b0244edda16798e694ada7a9048ec2c8c40dc16_home-slider-5.jpg"
+                },
+                "slide_title": [
+                  {
+                    "type": "heading1",
+                    "text": "The Stories We Wear",
+                    "spans": []
+                  }
+                ],
+                "title_color": "#fff7e6",
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": "Middle",
+                "cta_type": "Page",
+                "cta_text": "Check Out Worn Wear Stories",
+                "cta_bg_color": "#da5e3a",
+                "cta_text_color": "#ffffff",
+                "image_credits": "Photo: Kern Ducote"
+              },
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 877,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/8ca465f9885a170a7539f57c7ebc66574c0f8f7c_home-slider-6.jpg"
+                },
+                "slide_title": [
+                  {
+                    "type": "heading1",
+                    "text": "\"In 2015, only 15% of textile waste was recycled and 65% just went to the landfill in the US.\"",
+                    "spans": []
+                  }
+                ],
+                "title_color": "#ffffff",
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": null,
+                "cta_type": null,
+                "cta_text": null,
+                "cta_bg_color": null,
+                "cta_text_color": null,
+                "image_credits": "Photo: Kern Ducote"
+              },
+              {
+                "slide_image": {
+                  "dimensions": {
+                    "width": 877,
+                    "height": 585
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/45f7cf40fc23997dd3d4fc372661776299472cbe_home-slider-7.jpg"
+                },
+                "slide_title": [],
+                "title_color": null,
+                "slide_link": {
+                  "link_type": "Any"
+                },
+                "cta_vertical_align": "Bottom",
+                "cta_type": "Video Player",
+                "cta_text": "Watch Video",
+                "cta_bg_color": "#fff7e6",
+                "cta_text_color": "#553825",
+                "image_credits": null
+              }
+            ],
+            "primary": {}
+          },
+          {
+            "slice_type": "cross-content_push",
+            "slice_label": null,
+            "items": [
+              {
+                "push_image": {
+                  "dimensions": {
+                    "width": 260,
+                    "height": 160
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/1076b09199c7a3ac1879c24b9d7d239100c4c055_shop-mens.png"
+                },
+                "link_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Shop Men's",
+                    "spans": []
+                  }
+                ],
+                "push_link": {
+                  "link_type": "Any"
+                }
+              },
+              {
+                "push_image": {
+                  "dimensions": {
+                    "width": 260,
+                    "height": 160
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/da4ab6f3062eb4d0d8bc37af84635c9a013e573b_shop-womens.png"
+                },
+                "link_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Shop Women's",
+                    "spans": []
+                  }
+                ],
+                "push_link": {
+                  "link_type": "Any"
+                }
+              },
+              {
+                "push_image": {
+                  "dimensions": {
+                    "width": 260,
+                    "height": 160
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/102dd7abf3dbf7f8ba84a3f3b19adb01a8d66878_shop-kids-and-baby.png"
+                },
+                "link_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Shop Kids' & Baby",
+                    "spans": []
+                  }
+                ],
+                "push_link": {
+                  "link_type": "Any"
+                }
+              },
+              {
+                "push_image": {
+                  "dimensions": {
+                    "width": 260,
+                    "height": 160
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/dfe0cb6e06c74f3b10b5d5946e9f4d84c57cc351_shop-packs-and-gear.png"
+                },
+                "link_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Shop Packs & Gear",
+                    "spans": []
+                  }
+                ],
+                "push_link": {
+                  "link_type": "Any"
+                }
+              }
+            ],
+            "primary": {}
+          },
+          {
+            "slice_type": "static_text",
+            "slice_label": null,
+            "items": [
+              {}
+            ],
+            "primary": {
+              "paragraph_title": [
+                {
+                  "type": "heading2",
+                  "text": "Worn Wear is Patagonia's program that keeps gear in action longer.",
+                  "spans": []
+                }
+              ],
+              "paragraph_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Why extend the life of gear? Because the best thing we can do for the planet is get more use out of stuff we already own, cutting down on consumption.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Join us to repair, share and recycle your gear.",
+                  "spans": []
+                }
+              ]
+            }
+          },
+          {
+            "slice_type": "video_player",
+            "slice_label": null,
+            "items": [
+              {}
+            ],
+            "primary": {
+              "video_player": {
+                "height": 270,
+                "width": 480,
+                "embed_url": "https://www.youtube.com/watch?v=cMgfVenLRSI",
+                "type": "video",
+                "version": "1.0",
+                "title": "How Does Worn Wear Work?",
+                "author_name": "Patagonia",
+                "author_url": "https://www.youtube.com/user/patagoniavideo",
+                "provider_name": "YouTube",
+                "provider_url": "https://www.youtube.com/",
+                "cache_age": null,
+                "thumbnail_url": "https://i.ytimg.com/vi/cMgfVenLRSI/hqdefault.jpg",
+                "thumbnail_width": 480,
+                "thumbnail_height": 360,
+                "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/cMgfVenLRSI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+              },
+              "cta_vertical_align": "Bottom",
+              "cta_text": "Watch Video",
+              "cta_bg_color": "#fff7e6",
+              "cta_text_color": "#553825"
+            }
+          },
+          {
+            "slice_type": "static_text",
+            "slice_label": null,
+            "items": [
+              {}
+            ],
+            "primary": {
+              "paragraph_title": [],
+              "paragraph_text": [
+                {
+                  "type": "paragraph",
+                  "text": "One of the most responsible things we can do as a company is make high-quality stuff that lasts for years, so you don't have to buy more of it.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Keeping clothing in use just nine extra months can reduce the related carbon, water and waste footprints by 20-30%. (WRAP, 2012)",
+                  "spans": []
+                }
+              ]
+            }
+          },
+          {
+            "slice_type": "event_push",
+            "slice_label": null,
+            "items": [
+              {}
+            ],
+            "primary": {
+              "related_event": {
+                "id": "W_56ahIAACsA98Es",
+                "type": "event",
+                "tags": [],
+                "slug": "mt.-bachelor-or",
+                "lang": "en-us",
+                "link_type": "Document",
+                "isBroken": false
+              },
+              "cta_text": null,
+              "cta_bg_color": null,
+              "cta_text_color": null
+            }
+          },
+          {
+            "slice_type": "featured_products",
+            "slice_label": null,
+            "items": [
+              {
+                "feartured_product": {
+                  "sku": 44,
+                  "title": "A.P.C. Petit New Standard Jean",
+                  "description": "Description for A.P.C. Petit New Standard Jean",
+                  "image_url": "https://media.endclothing.com/media/f_auto,q_auto:eco,w_400,h_400/prodmedia/media/catalog/product/0/7/07-04-2017_apc_petitnewstandardjean_washedindigo_cozzk-m09047_mb_1.jpg"
+                }
+              },
+              {
+                "feartured_product": {
+                  "sku": 8,
+                  "title": "Y-3 Kusari",
+                  "description": "Description for Y-3 Kusari",
+                  "image_url": "https://media.endclothing.com/media/f_auto,q_auto:eco,w_400,h_400/prodmedia/media/catalog/product/0/6/06-01-2018_y3_kusari_blackwhite_db2079_mb_1.jpg"
+                }
+              },
+              {
+                "feartured_product": {
+                  "sku": 6,
+                  "title": "Adidas NMD_Racer PK",
+                  "description": "Description for Adidas NMD_Racer PK",
+                  "image_url": "https://media.endclothing.com/media/f_auto,q_auto:eco,w_400,h_400/prodmedia/media/catalog/product/0/9/09-02-2018_adidas_nmd_racerpk_solarpink_coreblack_cq2442_blr_1.jpg"
+                }
+              }
+            ],
+            "primary": {
+              "featured_products_name": [
+                {
+                  "type": "heading1",
+                  "text": "A Selection of Shirts",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "W_56ahIAACsA98Es",
+      "uid": null,
+      "type": "event",
+      "href": "https://wornwear-demo.cdn.prismic.io/api/v2/documents/search?ref=W__6LREAACoA7FvX&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22W_56ahIAACsA98Es%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2018-11-28T11:22:22+0000",
+      "last_publication_date": "2018-11-28T11:25:26+0000",
+      "slugs": [
+        "mt.-bachelor-or"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "event_title": [
+          {
+            "type": "heading1",
+            "text": "Mt. Bachelor, OR",
+            "spans": []
+          }
+        ],
+        "event_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 600
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/0467162faf01e9f78b82ff3b72e1bd5abc9c155a_next-tour-date.jpg"
+        },
+        "event_start_datetime": "2018-11-13T23:00:00+0000",
+        "event_end_datetime": "2018-11-14T23:00:00+0000",
+        "event_location": {
+          "latitude": 43.9791648,
+          "longitude": -121.7061207
+        },
+        "event_description": [
+          {
+            "type": "paragraph",
+            "text": "We're bringing Worn Wear to you. Find us on the road or at an event and we'll help you keep your gear in action longer so you can buy less.",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "W_6CHRIAAC4A9-NG",
+      "uid": null,
+      "type": "footer",
+      "href": "https://wornwear-demo.cdn.prismic.io/api/v2/documents/search?ref=W__6LREAACoA7FvX&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22W_6CHRIAAC4A9-NG%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2018-11-28T11:55:14+0000",
+      "last_publication_date": "2018-11-28T14:09:56+0000",
+      "slugs": [
+        "footer",
+        "faq"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "name": [
+          {
+            "type": "heading1",
+            "text": "Footer",
+            "spans": []
+          }
+        ],
+        "logo_image": {
+          "dimensions": {
+            "width": 162,
+            "height": 214
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/cd17172c44cd3c3f7af6e9ca50a946a7629b125a_footer-patch.png"
+        },
+        "footer_links": [
+          {
+            "footer_link_name": "FAQ",
+            "footer_link": {
+              "id": "W_6fFxEAACoA5k1W",
+              "type": "faq",
+              "tags": [],
+              "slug": "faq",
+              "lang": "en-us",
+              "link_type": "Document",
+              "isBroken": false
+            }
+          },
+          {
+            "footer_link_name": "Privacy Policy",
+            "footer_link": {
+              "link_type": "Web",
+              "url": "http://www.patagonia.com/privacy-policy.html"
+            }
+          },
+          {
+            "footer_link_name": "Our Stores",
+            "footer_link": {
+              "link_type": "Web",
+              "url": "http://www.patagonia.com/store-locator/?patagoniastore=1"
+            }
+          },
+          {
+            "footer_link_name": "Corporate Responsibility",
+            "footer_link": {
+              "link_type": "Web",
+              "url": "http://www.patagonia.com/corporate-responsibility.html"
+            }
+          },
+          {
+            "footer_link_name": "California Transparency Act",
+            "footer_link": {
+              "link_type": "Web",
+              "url": "http://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/Library-Sites-PatagoniaShared/en_US/PDF-US/Patagonia-US-and-UK-Disclosure-Statement-061317.pdf"
+            }
+          },
+          {
+            "footer_link_name": "Contact Us",
+            "footer_link": {
+              "link_type": "Web",
+              "url": "https://wornwear.patagonia.com/faq#contact-us"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "W__55xEAACwA7FrC",
+      "uid": null,
+      "type": "shop",
+      "href": "https://wornwear-demo.cdn.prismic.io/api/v2/documents/search?ref=W__6LREAACoA7FvX&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22W__55xEAACwA7FrC%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2018-11-29T14:38:35+0000",
+      "last_publication_date": "2018-11-29T14:39:06+0000",
+      "slugs": [
+        "womens-shop"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "shop_name": [
+          {
+            "type": "heading1",
+            "text": "Women's Shop",
+            "spans": []
+          }
+        ],
+        "banner_image": {
+          "dimensions": {
+            "width": 878,
+            "height": 585
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://wornwear-demo.cdn.prismic.io/wornwear-demo/9072fdd1958346201a5601191027466400e7fb2d_womens-slide-1.jpg"
+        },
+        "cta_type": "Video player",
+        "cta_vertical_align": "Middle",
+        "cta_text": "Watch Video",
+        "cta_link": {
+          "link_type": "Web",
+          "url": "https://www.youtube.com/watch?time_continue=5&v=IOZsdviLOFc"
+        },
+        "cta_bg_color": "#fff7e6",
+        "cta_text_color": "#553825"
+      }
+    }
+  ],
+  "version": "8f328f7",
+  "license": "This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/."
+}
